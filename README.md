@@ -1,6 +1,6 @@
 ## Engrain Developer test
 
-Feel free to email Tim Duff <tim@engrain.com> with any questions you have on this test. 
+Feel free to email Tim Duff <[redacted]> with any questions you have on this test. 
 
   1. Use the `engrain_test.sql` script (in the database folder) to create a mysql database.
  
@@ -40,4 +40,4 @@ Feel free to email Tim Duff <tim@engrain.com> with any questions you have on thi
   8. Add links to the page that sorts the data by bedroom count, and filters the data by  
      units available within 30 days, units available in 30 - 60 days, and units available in 60 - 90 days. 
     
-  9. Check everything in to the master branch.  Zip or gzip the engrain_test folder and email it to tim@engrain.com.
+  9. Check everything in to the master branch.  Zip or gzip the engrain_test folder and email it to [redacted].
